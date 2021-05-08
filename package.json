@@ -1,0 +1,17 @@
+{
+  "name": "assig1_chatbot",
+  "version": "1.0.0",
+  "description": "assignment1",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "subha",
+  "license": "ISC"
+}
